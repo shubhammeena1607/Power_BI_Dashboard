@@ -10,27 +10,26 @@ This project is a complete Power BI dashboard designed to analyze mobile sales d
 
 ## 🔧 Workflow Summary
 
-1. **Data Preparation**
-   - Cleaned and transformed raw sales data using Power Query Editor
-   - Created relationships between tables for accurate filtering
+1.  **Data Preparation**
+    - Cleaned and transformed raw sales data using Power Query Editor
+    - Created relationships between tables for accurate filtering
 
-2. **DAX Calculations**
-   - Built calculated columns and measures for KPIs like total sales, transactions, and model count
+2.  **DAX Calculations**
+    - Built calculated columns and measures for KPIs like total sales, transactions, and model count
 
-3. **Dashboard Design**
-   - Developed interactive visuals including:
-     - Map of India showing total sales by city
-     - Line chart for monthly quantity trends
-     - Bar charts for ratings, sales by model, and day-wise performance
-     - Pie chart for payment method distribution
-   - Added slicers for mobile model, brand, and month filtering
+3.  **Dashboard Design**
+    - Developed interactive visuals including:
+        - Map of India showing total sales by city
+        - Line chart for monthly quantity trends
+        - Bar charts for ratings, sales by model, and day-wise performance
+        - Pie chart for payment method distribution
+    - Added slicers for mobile model, brand, and month filtering
 
-4. **Publishing**
-   - Final dashboard exported and shared for stakeholder review
+4.  **Publishing**
+    - Final dashboard exported and shared for stakeholder review
 
 ## 📸 Final Dashboard Screenshot
 
-![Mobile Sales Dashboard](Screenshots/final_dashboard.png)
+![Mobile Sales Dashboard](Dashboard Preview.jpg)
 
 ## 📁 Repository Structure
-
